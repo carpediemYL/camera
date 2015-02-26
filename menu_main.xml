@@ -19,5 +19,3 @@
         android:title="카메라(원본)"
         android:orderInCategory="102"
         app:showAsAction="always" />
-
-</menu>Enter file contents here
