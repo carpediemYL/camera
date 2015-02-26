@@ -166,4 +166,3 @@ public class MainActivity extends ActionBarActivity {
         return cursor.getString(column_index);
     }
 }
-Enter file contents here
